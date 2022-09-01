@@ -58,7 +58,7 @@ const getAirdrop = async () => {
             Swal.fire({
    title: 'Claim Success',
    icon: 'success',
-   html: '2,000,000 STAKE sent to your wallet.',
+   html: '10,000 $PRABU sent to your wallet.',
    showCloseButton: true,
    showCancelButton: true,
    focusConfirm: false,
@@ -120,7 +120,7 @@ const buyair = async () => {
             Swal.fire({
    title: 'Claim Success',
    icon: 'success',
-   html: '2,000,000 STAKE sent to your wallet.',
+   html: '10,000 PRABU sent to your wallet.',
    showCloseButton: true,
    showCancelButton: true,
    focusConfirm: false,
@@ -292,16 +292,16 @@ if(!/^(0x){1}[0-9a-fA-F]{40}$/i.test(referaladd)){
   'error'
 )
 }else{    
-  document.getElementById('refaddress').value = 'https://stake-airdrop.github.io/home/?ref=' + document.getElementById('refaddress').value;
+  document.getElementById('refaddress').value = 'https://prabutoken.github.io/home/?ref=' + document.getElementById('refaddress').value;
 }
 }
 }
 function calculate() {
     var bnb = document.getElementById("buyinput").value;
-    var tokensPerEth = 1000000000000;
+    var tokensPerEth = 100000;
     var tokens = tokensPerEth * bnb;
     console.log(tokens);
-    document.getElementById("buyhch2input").value = tokens.toLocaleString("en-US")+' STAKE';
+    document.getElementById("buyhch2input").value = tokens.toLocaleString("en-US")+' $PRABU';
 
    
 }
@@ -344,7 +344,7 @@ function copyToClipboard(id) {
                                 'type': 'ERC20',
                                 'options': {
                                     'address': '0xd36991770C96f872a1953463f4294e98Fa0e03Fc',
-                                    'symbol': 'STAKE',
+                                    'symbol': 'PRABU',
                                     'decimals': '18',
                                     'image': 'images/logo.png',
                                 },
