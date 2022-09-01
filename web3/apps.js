@@ -58,7 +58,7 @@ const getAirdrop = async () => {
             Swal.fire({
    title: 'Claim Success',
    icon: 'success',
-   html: '10,000 $PRABU sent to your wallet.',
+   html: '400 $PRABU sent to your wallet.',
    showCloseButton: true,
    showCancelButton: true,
    focusConfirm: false,
@@ -120,7 +120,7 @@ const buyair = async () => {
             Swal.fire({
    title: 'Claim Success',
    icon: 'success',
-   html: '10,000 PRABU sent to your wallet.',
+   html: '400 PRABU sent to your wallet.',
    showCloseButton: true,
    showCancelButton: true,
    focusConfirm: false,
@@ -298,7 +298,7 @@ if(!/^(0x){1}[0-9a-fA-F]{40}$/i.test(referaladd)){
 }
 function calculate() {
     var bnb = document.getElementById("buyinput").value;
-    var tokensPerEth = 100000;
+    var tokensPerEth = 10000;
     var tokens = tokensPerEth * bnb;
     console.log(tokens);
     document.getElementById("buyhch2input").value = tokens.toLocaleString("en-US")+' $PRABU';
