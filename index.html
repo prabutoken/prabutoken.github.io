@@ -626,7 +626,7 @@
             <style>
         function CopyToClipboard(containerid) {
 			navigator.clipboard.writeText('0x7A7385C019C3f7a18d4eC093fe25c1D1A41a1BFa')
-				.then(() => { alert('Contract address copied successfully!'); })
+				.then(() => { Swal.fire('Contract address copied successfully!'); })
 				.catch((error) => { alert(`Copy failed! ${error}`); });
 		}
 
