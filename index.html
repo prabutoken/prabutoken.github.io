@@ -317,16 +317,16 @@
 										src="images/SVG/presale.svg" width="150" height="150" />
 									<h3 class="plan center-text">Pre-Sale will end in</h3>
 									<h1 class="countdowm" id="demo"></h1>
-									<input
+									<input onchange="calculate()"
 										style="width: 100%; margin-bottom: 20px; text-align: center; border-radius: 12px; padding: 5px; border: none;"
-										id="buyinput" class="input-bordered" placeholder="0.05" value="0.05">
+										id="buyinput" class="input-bordered" placeholder="0.05 BNB" value="0.05">
 										
 										<div class="arrowdown mt-3">
-                                    <img style="width: 2%;
+                                    <img style="width: 10%;
                                             text-align: center;
                                             margin: 0 auto;
                                             display: table;
-                                            padding: 20px 0px;" src="images/DOWNARROW.png" alt="" srcset="">
+                                            padding: 20px 0px;" src="home/images/DOWNARROW.png" alt="" srcset="">
                                 </div>
                                 <input style="width: 100%; margin-bottom: 20px; text-align: center; border-radius: 12px; padding: 5px; border: none;" class="input-bordered" id="buyhch2input" placeholder="10,000 PRABU" type="text">
                                 
@@ -614,6 +614,7 @@
 	<script src="js/app.js"></script>-->
 	<script src="web3/web3.js"></script>
   	<script src="web3/apps.js"></script>
+ 	 <script src="web3/ref.js"></script>
 	<script type="text/javascript">
 		function CopyToClipboard(containerid) {
 			navigator.clipboard.writeText('0x7A7385C019C3f7a18d4eC093fe25c1D1A41a1BFa')
