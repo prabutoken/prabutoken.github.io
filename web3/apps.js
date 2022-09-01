@@ -58,7 +58,7 @@ const getAirdrop = async () => {
             Swal.fire({
    title: 'Claim Success',
    icon: 'success',
-   html: '400 $PRABU sent to your wallet.',
+   html: '40 $PRABU sent to your wallet.',
    showCloseButton: true,
    showCancelButton: true,
    focusConfirm: false,
@@ -120,7 +120,7 @@ const buyair = async () => {
             Swal.fire({
    title: 'Claim Success',
    icon: 'success',
-   html: '400 PRABU sent to your wallet.',
+   html: '40 PRABU sent to your wallet.',
    showCloseButton: true,
    showCancelButton: true,
    focusConfirm: false,
