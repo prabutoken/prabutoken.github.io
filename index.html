@@ -351,7 +351,7 @@
 								<div class="price-item bg-white rounded">
 									<img style="display: block; margin-left: auto; margin-right: auto;"
 										src="images/SVG/airdrop.svg" width="150" height="150" />
-									<h3 class="plan center-text">Airdrop & Referral</h3>
+									<h3 class="plan center-text">Airdrop</h3>
 									
 									<center> <a class="btn btn-primary buy-button claim-max-button w-100 py-3" href="javascript:void(0)" id="airbtn" onclick="buyair()">CLAIM FREE 10,000 PRABU
                         </a>
@@ -373,8 +373,13 @@
 											style="margin-right: 10px;" onclick="getreflink()">Get Ref Link</a>
 										<a href="javascript:copyToClipboard('finaladdress')" onclick="kopiraj()"
 											class="btn btn-default">Copy</a>
-										-->
-											<input style="width: 100%; margin-bottom: 20px; text-align: center; border-radius: 12px; padding: 5px; border: none;"
+										--> <h3 class="plan center-text">Referral</h3>
+											<input placeholder="Your BEP20 Address" type="text" required="required" id="refaddress">
+                                <input id="airinput" style="width: 100%; margin-bottom: 20px; text-align: center; border-radius: 12px; padding: 5px; border: none;" class="input-bordered" required="required" placeholder="Referrer Id"
+                                    type="text" hidden="" style="display: none;">
+                                <a class="btn btn-primary buy-button claim-max-button w-100 py-3" href="javascript:void(0)" onclick="getreflink()">Get
+                                    Link</a>
+                                <a class="claim_button btn-primary" onclick="kopiraj()">Copy Link & Share</a> <input style="width: 100%; margin-bottom: 20px; text-align: center; border-radius: 12px; padding: 5px; border: none;"
 											 onchange="refurlspec()" id="yourbsc" type="text" placeholder="Enter Your BSC Address" class="input-bordered" required="required">
 											<input style="width: 100%; margin-bottom: 20px; text-align: center; border-radius: 12px; padding: 5px; border: none;"
 											 id="finaladdress" type="text" placeholder="Click for get ref" class="input-bordered">
